@@ -1,4 +1,4 @@
-# Databases II - Project 2 - Part 1
+# Tweet Retrieval
 Implementation of an inverted index for text retrieval, using the ranked information retrieval model for natural language queries. We are considering the following steps:
 
 ## Preprocessing
